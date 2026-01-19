@@ -10,7 +10,10 @@
     "lint": "echo \"(lint later)\""
   },
   "dependencies": {
-    "fastify": "^5.7.1"
+    "dotenv": "^17.2.3",
+    "fastify": "^5.7.1",
+    "openai": "^6.16.0",
+    "zod": "^4.3.5"
   },
   "devDependencies": {
     "@types/node": "^25.0.9",
