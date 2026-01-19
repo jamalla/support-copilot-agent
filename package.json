@@ -1,0 +1,11 @@
+{
+  "name": "support-copilot-agent",
+  "private": true,
+  "packageManager": "pnpm@latest",
+  "scripts": {
+    "dev": "pnpm -r dev",
+    "build": "pnpm -r build",
+    "lint": "pnpm -r lint",
+    "typecheck": "pnpm -r typecheck"
+  }
+}
