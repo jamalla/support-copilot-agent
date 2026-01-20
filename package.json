@@ -1,7 +1,7 @@
 {
   "name": "support-copilot-agent",
   "private": true,
-  "packageManager": "pnpm@latest",
+  "packageManager": "pnpm@9.12.1",
   "scripts": {
     "dev": "pnpm -r dev",
     "build": "pnpm -r build",
